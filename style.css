@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+body{
+  background-color:#F7F9FC;
+  font-family: 'Robot', sans-serif;
+  color:#575F7D;
+  text-align: center;
+  font-size: 16px;
+  background-image: url(https://planetofhotels.com/guide/sites/default/files/styles/paragraph__hero_banner__hb_image__1880bp/public/hero_banner/oxford-university.jpg);
+}
+h1{
+  color:#575F7D;
+  font-size: 32px;
+}
+
+h2{
+  color:#C6D57E;
+  font-size: 20px;
+}
+
+h3{
+  color:#D57E7E;
+  font-size: 20px;
+}
+
+h4{
+  color: #A2CDCD;
+  font-size: 20px;
+}
+
+h5{
+  color: #9F5F80;
+  font-size: 20px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+div{
+  width: 75%;
+  padding: 24px;
+  margin: 24px auto;
+  background-color: white;
+  border-radius: 50px;
+  box-shadow: 2px 3px 3px 2px;
+}
+
+img{
+  border-radius: 20%;
+}
+
+.button-blue{
+  border: 1px blue;
+}
+
+.button-blue:hover{
+  background-color: white;
+  color:blue;
+  transition: 1s;
+}
+
+i{
+  font-size: 48px;
+  color: rgba(0,0,0,0.2);
+}
+
+i:hover{
+  color:black;
+  transition: 1s;
+}
+
+#listin-inline li{
+  display: inline;
+  margin: 0 8px;
+}
+
+#list-inline{
+  padding: 0px;
+}
+
