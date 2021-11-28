@@ -81,3 +81,9 @@ i:hover{
   padding: 0px;
 }
 
+.avatar {
+  width: 160px;
+  height: auto;
+  border-radius: 50%;
+  box-shadow: 0px 5px 30px rgba(16, 175, 194, 0.43);
+}
